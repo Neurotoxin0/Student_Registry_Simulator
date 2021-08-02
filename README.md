@@ -1,4 +1,4 @@
-# Code Archiving for CPS 209 assignment
+# Student Registry Simulator
 A simple version of student registry program, features includes but not limited to: courses enroll & drop, course auto & manual schedule, grade override, external student list, etc.
 
 ----
