@@ -3,7 +3,9 @@ A simple version of student registry program, features includes but not limited 
 - Orders and Course# are not case-sensitive, whereas name is
 - Program catches all exceptions during tests
 - Interactive Shell is designed to be user friendly
+
 ----
+
 # Available commands:
 - REG: register a new student in registry
     * with student's name and student#
