@@ -1,6 +1,6 @@
 # Code Archiving for CPS 209 assignment
 A simple version of student registry program, features includes but not limited to: courses enroll & drop, course autl / manual schedule, grade override, external student list
-- Orders and Course# are not case-sensitive, whereas name is
+- Orders and Course# are not case-sensitive, whereas student name is
 - Program catches all exceptions during tests
 - Interactive Shell is designed to be user friendly
 
